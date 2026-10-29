@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "soilcast"
+version = "0.1.0"
+description = "Soil moisture and nitrate loss risk forecasting from soil sensors, weather forecasts and SSURGO"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy", "pandas>=2.1", "pyarrow", "scikit-learn", "lightgbm", "optuna", "requests",
+  "matplotlib", "seaborn", "rdata", "jupyter", "nbformat",
+]
+
+[project.optional-dependencies]
+deep = ["torch>=2.2"]
+gpu-trees = ["xgboost>=2.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

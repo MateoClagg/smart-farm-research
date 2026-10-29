@@ -1,0 +1,31 @@
+compname,comppct_r,drainagecl,hzdept_r,hzdepb_r,sandtotal_r,silttotal_r,claytotal_r,awc_r,dbthirdbar_r,station,depth_cm
+Farland,90.0,Well drained,0.0,18.0,11.3,67.7,21.0,0.2,1.35,MT_Wolf_Point_29_ENE,5
+Farland,90.0,Well drained,0.0,18.0,11.3,67.7,21.0,0.2,1.35,MT_Wolf_Point_29_ENE,10
+Farland,90.0,Well drained,18.0,45.0,6.7,62.3,31.0,0.18,1.35,MT_Wolf_Point_29_ENE,20
+Zahl,54.0,Well drained,0.0,12.0,45.0,31.0,24.0,0.19,1.45,ND_Jamestown_38_WSW,5
+Zahl,54.0,Well drained,0.0,12.0,45.0,31.0,24.0,0.19,1.45,ND_Jamestown_38_WSW,10
+Zahl,54.0,Well drained,12.0,55.0,34.0,38.0,28.0,0.17,1.45,ND_Jamestown_38_WSW,20
+Patent,35.0,Well drained,0.0,10.0,36.0,43.0,21.0,0.17,1.15,ND_Medora_7_E,5
+Patent,35.0,Well drained,10.0,33.0,31.0,45.0,24.0,0.18,1.3,ND_Medora_7_E,10
+Patent,35.0,Well drained,10.0,33.0,31.0,45.0,24.0,0.18,1.3,ND_Medora_7_E,20
+Las Animas,60.0,Somewhat poorly drained,0.0,15.0,62.9,25.1,12.0,0.2,1.48,NE_Harrison_20_SSE,5
+Las Animas,60.0,Somewhat poorly drained,0.0,15.0,62.9,25.1,12.0,0.2,1.48,NE_Harrison_20_SSE,10
+Las Animas,60.0,Somewhat poorly drained,15.0,152.0,63.5,23.5,13.0,0.15,1.6,NE_Harrison_20_SSE,20
+Valentine,65.0,Excessively drained,0.0,13.0,94.0,3.0,3.0,0.08,1.59,NE_Whitman_5_ENE,5
+Valentine,65.0,Excessively drained,0.0,13.0,94.0,3.0,3.0,0.08,1.59,NE_Whitman_5_ENE,10
+Valentine,65.0,Excessively drained,13.0,30.0,95.0,2.0,3.0,0.07,1.58,NE_Whitman_5_ENE,20
+Williams,40.0,Well drained,0.0,15.0,38.0,40.0,22.0,0.19,1.4,SD_Aberdeen_35_WNW,5
+Williams,40.0,Well drained,0.0,15.0,38.0,40.0,22.0,0.19,1.4,SD_Aberdeen_35_WNW,10
+Williams,40.0,Well drained,15.0,25.0,37.0,33.0,30.0,0.18,1.4,SD_Aberdeen_35_WNW,20
+Rhoades,55.0,Moderately well drained,0.0,8.0,40.0,36.0,24.0,0.21,1.4,SD_Buffalo_13_ESE,5
+Rhoades,55.0,Moderately well drained,8.0,20.0,22.0,40.0,38.0,0.18,1.4,SD_Buffalo_13_ESE,10
+Rhoades,55.0,Moderately well drained,20.0,36.0,22.0,40.0,38.0,0.13,1.4,SD_Buffalo_13_ESE,20
+Lakoma,55.0,Well drained,0.0,15.0,5.0,42.0,53.0,0.13,1.34,SD_Pierre_24_S,5
+Lakoma,55.0,Well drained,0.0,15.0,5.0,42.0,53.0,0.13,1.34,SD_Pierre_24_S,10
+Lakoma,55.0,Well drained,15.0,28.0,3.0,45.0,52.0,0.13,1.32,SD_Pierre_24_S,20
+Nora,60.0,Well drained,0.0,18.0,12.0,62.0,26.0,0.21,1.35,SD_Sioux_Falls_14_NNE,5
+Nora,60.0,Well drained,0.0,18.0,12.0,62.0,26.0,0.21,1.35,SD_Sioux_Falls_14_NNE,10
+Nora,60.0,Well drained,18.0,31.0,8.0,64.0,28.0,0.19,1.3,SD_Sioux_Falls_14_NNE,20
+Grizzly,45.0,Well drained,3.0,53.0,30.9,59.1,10.0,0.12,1.2,WY_Sundance_8_NNW,5
+Grizzly,45.0,Well drained,3.0,53.0,30.9,59.1,10.0,0.12,1.2,WY_Sundance_8_NNW,10
+Grizzly,45.0,Well drained,3.0,53.0,30.9,59.1,10.0,0.12,1.2,WY_Sundance_8_NNW,20

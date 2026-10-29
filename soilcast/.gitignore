@@ -1,0 +1,9 @@
+data/raw/uscrn/
+data/raw/GSIF/
+data/raw/openmeteo/
+data/processed/
+results/runs/
+*.db
+__pycache__/
+.ipynb_checkpoints/
+*.pt

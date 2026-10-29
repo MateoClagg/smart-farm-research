@@ -1,0 +1,22 @@
+# conda env create -f environment.yml && conda activate soilcast && pip install -e .
+# Or into an existing env (e.g. ML-env): conda activate ML-env && pip install -e ".[deep,gpu-trees]"
+name: soilcast
+channels: [conda-forge, pytorch, nvidia]
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas>=2.1
+  - pyarrow
+  - scikit-learn
+  - lightgbm
+  - xgboost>=2.0
+  - optuna
+  - requests
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - pip
+  - pip:
+      - rdata
+      # PyTorch with CUDA: install per https://pytorch.org/get-started/locally/ for your driver, e.g.
+      # pip install torch --index-url https://download.pytorch.org/whl/cu124
